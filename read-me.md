@@ -41,8 +41,8 @@ This website in targeted towards children and adults who are interesting in lear
 ## To-do
 
 - [x] Research
-- [ ] Content organization
-- [ ] Tasks & priorities
+- [x] Content organization
+- [x] Tasks & priorities
 - [ ] Prototype
 - [ ] Style exploration
 - [ ] Writing exploration
