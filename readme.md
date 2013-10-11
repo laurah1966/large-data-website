@@ -29,7 +29,6 @@ This website in targeted towards children and adults who are interesting in lear
 ## Sample article
 
 - <http://en.wikipedia.org/wiki/Kronosaurus>
-
 ## Similar sites
 
 - <http://www.ucmp.berkeley.edu/mesozoic/cretaceous/cretaceous.php>
@@ -43,11 +42,11 @@ This website in targeted towards children and adults who are interesting in lear
 - [x] Research
 - [x] Content organization
 - [x] Tasks & priorities
-- [ ] Prototype
-- [ ] Style exploration
-- [ ] Writing exploration
+- [x] Prototype
+- [x] Style exploration
+- [x] Writing exploration
 - [ ] Component guide
-- [ ] Homepage design
+- [x] Homepage design
 - [ ] Inside pages
 - [ ] Comments
 - [ ] Categories
