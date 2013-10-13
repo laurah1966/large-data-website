@@ -1,0 +1,6 @@
+
+Sitemap: http://laurah1966.github.io/large-data-site/sitemap.xml
+
+User-Agent: *
+Disallow: 
+
