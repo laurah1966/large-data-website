@@ -4,17 +4,12 @@
     Site: harv0097@algonquinlive.com
     Location: Ottawa, Canada.
 
-                 
-                        [...]
 						
 
     /* THANKS */
     Name: Wikipedia
 		  Bootstrap
 
-                 
-                        [...]
-                        
 
     /* SITE */
     Last update: 2013/10/15
