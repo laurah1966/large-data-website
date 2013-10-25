@@ -11,3 +11,7 @@ Style tile 2 is a modern design, monocromatic with a hint of teal for a pop of c
 
 **Style Tyle 3**
 Style tile 3 is a very minimalistic, with th use of monocromatic color scheme .Futura is the font for all of the copy with variations in weights.  Overall for the user i think this give them a very sleek enviroment to learn and search the site. This takes the next step and looks very coorpreate and professional.
+
+
+**Selected Style**
+
