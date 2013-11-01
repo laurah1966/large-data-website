@@ -1,3 +1,49 @@
 html{
 	font-family: 'Allerta', sans-serif;
 }
+
+.skiplinks{
+	margin:0;
+	padding:0;
+	position:absolute;
+	font-size: 1.25rem;
+	list-style-type: none;
+	z-index: 3000;	
+	width:100%;
+	
+	font-size: 1.25rem;
+	font-weight: bold;
+	list-style-type:none;
+}
+
+.skiplinks a,
+.skiplinks a:link,
+.skiplinks a:visited {
+	padding: 0.5em 0.75em;
+	position:absolute;
+	top: -10em;
+	
+	background-color: #000;
+	color: #FFF;
+	text-decoration:none;
+}
+
+.skiplinks a:focus {
+	top:0;	
+}
+
+a,
+a:link,
+a:visited{
+	outline:none; /* Removes the keyboard selection highlihgt*/	
+}
+
+
+a:hover,
+a:active{
+	outline:none; /* Removes the keyboard selection highlihgt*/	
+}
+
+a:focus {
+	outline:2 px solid #6666cc; 
+}
