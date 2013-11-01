@@ -47,3 +47,8 @@ a:active{
 a:focus {
 	outline:2 px solid #6666cc; 
 }
+
+.flex-img {
+	display: block;
+	width: 100%;
+}
